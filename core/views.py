@@ -7,7 +7,7 @@ from django.template import RequestContext
 
 def homepage(request):
     #return HttpResponse('Bem vindo ao Eventex!')
-    #from django.conf import settings
+    from django.conf import settings
     #context = {'STATIC_URL': settings.STATIC_URL}
 
     context = RequestContext(request)

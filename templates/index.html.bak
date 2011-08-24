@@ -1,0 +1,27 @@
+﻿<!doctype html>
+<html>
+<head>
+  <title>EventeX o Ultra Eventchu</title>
+</head>
+<BODY BGCOLOR="white" text="gray"> 
+  <div id="page">
+    <div id="header">
+      <center>
+        <img src="{{ STATIC_URL }}img/logo100.jpg" alt="EventeX" />
+      </center>
+    </div>
+    <hr>
+    <div id="content">
+      <h1><center>Bem-vindo ao EventeX!</center></h1>
+      <p><center>O evento mais sensacional do ano depois do Dev in Rio!</center></p>
+      <p><center>Vocês não podem perder esta oportunidade!</center></p>
+      <p><center><strong>Início das inscrições em 24/10/2011.</strong></center></p>
+      <p><center>Para dúvidas e mais informações entre em contato com <a href="mailto:eventex@eventex.com.br">eventex@eventex.com.br</a></center></p>
+    </div>
+    <hr>
+    <div id="footer">
+      <p><center>&copy; 2011. <a rel="license" href="http://moto.com.br">Moto.com.br</a>, nenhum direito reservado. 
+    </div>
+  </div>
+</body>
+</html>
